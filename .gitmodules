@@ -1,0 +1,3 @@
+[submodule "crm-app"]
+	path = crm-app
+	url = git@github.com:sukhoy94/dusha-crm-app.git
