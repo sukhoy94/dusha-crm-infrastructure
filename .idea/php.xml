@@ -126,6 +126,20 @@
       <path value="$PROJECT_DIR$/crm-app/vendor/symfony/polyfill-intl-grapheme" />
       <path value="$PROJECT_DIR$/crm-app/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/crm-app/vendor/laravel/breeze" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/brianium/paratest" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/ta-tikoma/phpunit-architecture-test" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/jean85/pretty-package-versions" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/pestphp/pest-plugin" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/pestphp/pest-plugin-mutate" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/pestphp/pest" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/pestphp/pest-plugin-laravel" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/pestphp/pest-plugin-arch" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/fidry/cpu-core-counter" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
