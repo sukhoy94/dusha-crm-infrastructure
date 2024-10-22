@@ -125,6 +125,7 @@
       <path value="$PROJECT_DIR$/crm-app/vendor/symfony/polyfill-mbstring" />
       <path value="$PROJECT_DIR$/crm-app/vendor/symfony/polyfill-intl-grapheme" />
       <path value="$PROJECT_DIR$/crm-app/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/laravel/breeze" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />

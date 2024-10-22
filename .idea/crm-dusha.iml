@@ -119,6 +119,7 @@
       <excludeFolder url="file://$MODULE_DIR$/crm-app/vendor/voku/portable-ascii" />
       <excludeFolder url="file://$MODULE_DIR$/crm-app/vendor/watson/active" />
       <excludeFolder url="file://$MODULE_DIR$/crm-app/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/crm-app/vendor/laravel/breeze" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
