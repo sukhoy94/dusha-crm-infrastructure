@@ -7,3 +7,6 @@ stop:
 
 rebuild_app:
 	@docker compose up app --build -d
+
+down:
+	@docker compose down --remove-orphans
