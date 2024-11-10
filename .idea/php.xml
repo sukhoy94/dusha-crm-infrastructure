@@ -140,9 +140,16 @@
       <path value="$PROJECT_DIR$/crm-app/vendor/phpstan/phpdoc-parser" />
       <path value="$PROJECT_DIR$/crm-app/vendor/doctrine/deprecations" />
       <path value="$PROJECT_DIR$/crm-app/vendor/fidry/cpu-core-counter" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/crm-app/vendor/phpstan/phpstan-strict-rules" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
+  <component name="PhpStan">
+    <PhpStan_settings>
+      <PhpStanConfiguration tool_path="$PROJECT_DIR$/crm-app/vendor/bin/phpstan" />
+    </PhpStan_settings>
+  </component>
   <component name="PhpStanOptionsConfiguration">
     <option name="transferred" value="true" />
   </component>

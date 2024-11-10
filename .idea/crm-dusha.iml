@@ -136,6 +136,8 @@
       <excludeFolder url="file://$MODULE_DIR$/crm-app/vendor/phpdocumentor/type-resolver" />
       <excludeFolder url="file://$MODULE_DIR$/crm-app/vendor/phpstan/phpdoc-parser" />
       <excludeFolder url="file://$MODULE_DIR$/crm-app/vendor/ta-tikoma/phpunit-architecture-test" />
+      <excludeFolder url="file://$MODULE_DIR$/crm-app/vendor/phpstan/phpstan" />
+      <excludeFolder url="file://$MODULE_DIR$/crm-app/vendor/phpstan/phpstan-strict-rules" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

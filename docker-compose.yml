@@ -12,7 +12,7 @@ services:
   app:
     build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: crm-app/Dockerfile
     container_name: crm_app
     volumes:
       - ./crm-app:/var/www/html
