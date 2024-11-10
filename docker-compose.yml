@@ -11,8 +11,8 @@ services:
 
   app:
     build:
-      context: .
-      dockerfile: crm-app/Dockerfile
+      context: ./crm-app
+      dockerfile: Dockerfile
     container_name: crm_app
     volumes:
       - ./crm-app:/var/www/html
